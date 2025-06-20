@@ -27,6 +27,7 @@ public class main {
             break;
             default :
             dayName="NA";
+            break;
         }
         System.out.println("Today is:"+dayName);
     }
