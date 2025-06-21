@@ -29,3 +29,4 @@ public class Weather {
         scanner.close();
     }
 }
+ 
